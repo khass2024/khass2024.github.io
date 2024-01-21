@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kevin Hass's Website"
+# title: "Kevin Hass's Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
